@@ -43,5 +43,6 @@ you can replace "cancer" with any search query
 
 ## NOTE
 
-Run on Linux/OsX based system, because "nhs-cache" and "nhs-index" paths are hardcoded and unix based
+Run on Linux/OsX based system, because "nhs-cache" and "nhs-index" paths are hardcoded and unix based.
+Also have to wait till scraping is over. Usually it takes 7-10 mins with localhost. Can speedup if you have fast and reliable proxies! 
 

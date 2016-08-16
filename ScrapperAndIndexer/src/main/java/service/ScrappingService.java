@@ -36,8 +36,8 @@ public class ScrappingService {
 
     public ScrappingService() {
         proxies.add(new ProxyAddress(null, -1));    // dummy for localhost
-        proxies.add(new ProxyAddress("217.156.252.118", 8080));
-        proxies.add(new ProxyAddress("185.5.64.70", 8080));
+       // proxies.add(new ProxyAddress("217.156.252.118", 8080));
+       // proxies.add(new ProxyAddress("185.5.64.70", 8080));
     }
 
     public void scrape() throws IOException, InterruptedException {
