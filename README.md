@@ -26,7 +26,7 @@ Run:
 
 ``` java -jar target/scrapperAndIndexer-jar-with-dependencies.jar ```
 
-# ScrapperAndIndexer
+# Searcher
 Build:
 
 1. ``` cd "Searcher" ```
