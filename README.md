@@ -9,7 +9,7 @@
 ## PLEASE READ BEFORE PROCEEDING
 
 Run on Linux/OSX os, because "nhs-cache" and "nhs-index" paths are hardcoded and unix based.
-Also have to wait till scraping is over. Usually it takes 7-10 mins with localhost. Can speedup if you have fast and reliable proxies! 
+Also have to wait till scraping is over. Usually it takes 7-10 mins with localhost. (site has ddos protection) Can speedup if you have fast and reliable proxies! Searcher returns top 10 json results for the query!
 If something doesn't work please do not hesitate to contact me!
 
 ## Prerequisites
